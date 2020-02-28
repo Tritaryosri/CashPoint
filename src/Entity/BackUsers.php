@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Entity;
+namespace Dotit\CashpointBundle\Entity;
 
 use App\Application\Sonata\UserBundle\Entity\User as User;
 use Doctrine\Common\Collections\ArrayCollection;

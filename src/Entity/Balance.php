@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Entity;
+namespace Dotit\CashpointBundle\Entity;
 
 use App\Entity\Traits\ObjectMetaDataTrait;
 use App\Entity\Traits\SoftDeleteableTrait;

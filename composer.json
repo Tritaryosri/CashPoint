@@ -1,0 +1,28 @@
+{
+    "name": "yosri/cashpoint-bundle",
+    "description": "Entity Cash Point",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tritar Yosri",
+            "email": "triteryosri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "name": "CashpointBundle",
+            "url": ""
+        }
+    ],
+    "require": {
+        "php": "^7.1.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dotit\\CashpointBundle\\": "src/"
+
+        }
+    }
+}

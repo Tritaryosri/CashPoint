@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Entity;
+namespace Dotit\CashpointBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use App\Entity\Traits\ObjectMetaDataTrait;

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Entity\Traits;
+namespace Dotit\CashpointBundle\Entity\Traits;
 
 use Doctrine\ORM\Mapping as ORM;
 
