@@ -1,0 +1,2 @@
+# CashPoint
+Bundle entity CashPoint
