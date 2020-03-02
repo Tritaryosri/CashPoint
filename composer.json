@@ -9,14 +9,14 @@
             "email": "triteryosri@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
 
     "require": {
         "php": "^7.1.3"
     },
     "autoload": {
         "psr-4": {
-            "Dotit\\CashpointBundle\\": "src/"
+            "Dotit\\CashpointBundle\\": "CashpointBundle/"
         }
     }
 }
