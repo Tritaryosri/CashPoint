@@ -13,7 +13,7 @@
     "repositories": [
         {
             "name": "CashpointBundle",
-            "url": "git@bitbucket.org:tritar/cashpointbundle.git"
+            "url": "https://github.com/Tritaryosri/CashPoint.git'"
         }
     ],
     "require": {
